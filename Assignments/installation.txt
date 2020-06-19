@@ -1,0 +1,4 @@
+sudo apt install python3.6 python3-venv git 
+python3 -m venv iba
+source iba/bin/activate
+pip3 install pandas seaborn pandas_profiler sklearn jupyter
